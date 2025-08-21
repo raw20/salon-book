@@ -2,7 +2,7 @@
 
 ## 🚀 주요 기술
 
-- React 18 + TypeScript
+- React 19 + TypeScript
 - Firebase (Firestore + Auth)
 - Zustand 상태관리
 - Tailwind CSS
